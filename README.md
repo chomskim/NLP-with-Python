@@ -1,3 +1,3 @@
 # NLP-with-Python
-Natural Language Processing with Python book Source
-IPython of Python3
+1. Natural Language Processing with Python book Source
+2. IPython of Python3
